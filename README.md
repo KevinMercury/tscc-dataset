@@ -1,6 +1,6 @@
 <h1>Thai Supreme Court Cases (TSCC) Dataset</h1>
 <p>
-This is the dataset first appeared in the paper "Predicting Judicial Decisions of Criminal Cases from Thai Supreme Court Using Bi-directional GRU with Attention Mechanism" which will be presented at the 5th Asian Conference on Defense Technology (ACDT 2018) in Hanoi, Vietnam.
+This is the dataset first appeared in the paper "Predicting Judicial Decisions of Criminal Cases from Thai Supreme Court Using Bi-directional GRU with Attention Mechanism" which was presented at the 5th Asian Conference on Defense Technology (ACDT 2018) in Hanoi, Vietnam.
 </p>
 <p>
 TSCC comes from 1,000 criminal judgements from the Supreme Court Judgement Search System created by the Supreme Court of Thailand [1]. These judgements were judged since 1958 (B.E. 2501) using Thai Criminal Code B.E. 2499 (1956) [2]. Those judgements could be classified as three categories:
